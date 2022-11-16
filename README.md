@@ -104,7 +104,7 @@ Base URL: `http://localhost:3000`
 You need to create a .env file in the root directory and add the following variables:
 
 | Variable | Description | Value |
-| ------ | ------ |
+| ------ | ------ | ------ |
 | POSTGRES_HOST | Database host | 127.0.0.1
 | POSTGRES_DB | Database name | store_db
 | POSTGRES_TEST_DB | Database name for testing | store_test_db
